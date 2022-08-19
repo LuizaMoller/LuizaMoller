@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuizaMoller
-- 👀 I’m interested in bioinformatics, Full Stack Development , Data Analytics and Data Science.
+- 👀 I’m interested in Bioinformatics, Full Stack Development , Data Analytics and Data Science.
 - 🌱 I’m currently learning python, c# and java.
 - 📫 How to reach me: marina.luizamoller11@gmail.com
 
